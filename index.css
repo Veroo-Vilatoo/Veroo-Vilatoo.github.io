@@ -1,0 +1,177 @@
+body {
+    image-rendering: pixelated;
+    background-size: 20px 20px;
+    background: linear-gradient(to bottom, rgb(9, 0, 94), rgb(13, 0, 255), rgb(255, 234, 0));
+    margin: 0px;
+}
+
+#h1 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 15px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#h3-1 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    margin-top: -7%;
+}
+
+#img1 {
+    display: block;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 15px;
+    padding: 15px;
+}
+
+#p1 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font: optional;
+    font-weight: 100;
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    padding: 75px;
+}
+
+#h5-1 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font: optional;
+    font-weight: 700;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    padding: 75px;
+}
+
+#img2 {
+    display: block;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 15px;
+    padding: 15px;
+}
+
+#h5-2 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font: optional;
+    font-weight: 700;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    padding: 75px;
+}
+
+#img3 {
+    display: block;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 15px;
+    padding: 15px;
+    margin-bottom: 200px;
+}
+
+#h5-3 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font: optional;
+    font-weight: 700;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    padding: 150px;
+}
+
+#img4 {
+    display: block;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 15px;
+    padding: 15px;
+}
+
+#h5-4 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font: optional;
+    font-weight: 700;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    padding: 75px;
+}
+
+#gif1 {
+    display: block;
+    margin-top: 15%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    border-color: yellow;
+    border-width: 15px;
+    padding: 15px;
+}
+
+#h3-2 {
+        font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 15px;
+    border-color: rgb(9, 0, 94);
+    background-color: rgb(9, 0, 94);
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+
+#ul1 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#ul2 {
+    font-family:  "Pixelify Sans", Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    text-align: center;
+    margin-top: -12%;
+}
