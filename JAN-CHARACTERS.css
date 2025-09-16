@@ -1,0 +1,155 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#wt1 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 50px;
+    font-display: bold;
+    color: white;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    border-width: 50px;
+    text-align: center;
+    border-radius: 0%;
+}
+
+h1:hover {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 50px;
+    font-display: bold;
+    color: white;
+    border-style: solid;
+     border-color: red;
+    background-color: red;
+    border-width: 50px;
+    text-align: center;
+    border-radius: 0%;
+}
+
+#h2-1 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#h2-2 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#h2-3 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#h2-4 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2:hover {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 25px;
+    font-display: normal;
+    color: rgb(255, 255, 255);
+    border-color: red;
+    background-color: red;
+    border-radius: 30px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-style: solid;
+    text-align: center;
+   margin: auto;
+   padding: -50px;
+}
+
+h2:active {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 25px;
+    font-display: normal;
+    color: black;
+    border-color: white;
+    background-color: white;
+    border-radius: 30px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-style: solid;
+    text-align: center;
+   margin: auto;
+   padding: -50px;
+}
+
+#h3-1 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3:hover {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 25px;
+    font-display: normal;
+    color: rgb(255, 255, 255);
+    border-color: red;
+    background-color: red;
+    border-radius: 30px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-style: solid;
+    text-align: center;
+   margin: auto;
+   padding: -50px;
+}
+
+h3:active {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 25px;
+    font-display: normal;
+    color: black;
+    border-color: white;
+    background-color: white;
+    border-radius: 30px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-style: solid;
+    text-align: center;
+   margin: auto;
+   padding: -50px;
+}

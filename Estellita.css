@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#wt1 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 50px;
+    font-display: bold;
+    color: white;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    border-width: 50px;
+    text-align: center;
+    border-radius: 0%;
+}
+
+
+#panel1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: middle;
+}
+
+
+#p1 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#h3-2 {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: right;
+    margin-top: 10%;
+    margin-right: 15%;
+    padding-bottom: 50px;
+    float: right;
+    display: inline;
+}
+
+#back-button {
+    font-family:  "VT323", Tahoma, sans-serif;
+    font-size: 30px;
+    font-display: normal;
+    color: white;
+    text-align: right;
+    margin-left: 75%;
+    margin-right: 25%;
+    padding-bottom: 50px;
+    float: right;
+}
